@@ -1,2 +1,2 @@
-# p2p-chat
+# P2P-Chat
 Socket-based chat application
